@@ -1,4 +1,4 @@
-<a href="https://discord.gg/8tuuGjuEE9"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Join our Discord!"></a>
+<a href="https://discord.gg/8tuuGjuEE9"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Discord!"></a>
 # Freecam
 a unity freecam with alot of options like orion drift made by HuhMonke
 make sure you downloaded [MoonSharp](https://github.com/moonsharp-devs/moonsharp)
