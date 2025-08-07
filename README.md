@@ -75,3 +75,7 @@ take screenshot
 ```lua
 Freecam:TakeScreenshot("screenshot1.png")
 ```
+Return object from name
+```lua
+local MyObj = Freecam:ReturnObjectWithNameFromLua("Magnet")
+```
