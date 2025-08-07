@@ -5,7 +5,7 @@ make sure you downloaded [MoonSharp](https://github.com/moonsharp-devs/moonsharp
 
 # Documentation
 
-## how to add lua scripts
+## How to add lua scripts
 
 YourGame_DATA/                          
 ----StreamingAssets/                      
