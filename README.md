@@ -6,9 +6,9 @@ make sure you downloaded [MoonSharp](https://github.com/moonsharp-devs/moonsharp
 
 ## how to add lua scripts
 
-YourGame_DATA/
-----StreamingAssets/
--------Lua/
+YourGame_DATA/                          
+----StreamingAssets/                      
+-------Lua/                  
 ----------MyScript.lua
 
 
