@@ -1,6 +1,6 @@
 # Freecam
 a unity freecam with alot of options like orion drift made by HuhMonke
-
+make sure you downloaded [MoonSharp](https://github.com/moonsharp-devs/moonsharp)
 
 # Documentation
 
